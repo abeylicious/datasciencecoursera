@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-this is a repo for data specialization course on cousera
+This practical session of creating a branch of the master 
